@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wediah
 - 👀 I’m interested in Software development and Engineering 
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on anything software development
 - 📫 How to reach me emmanuelwediah@gmail.com
 
 <!---
