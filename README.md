@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wediah Emmanuel</h1>
-<h3 align="center">A CS Student / frontend developer from Ghana.</h3>
+<h3 align="center">A CS Student / frontend developer based in Accra,Ghana.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wediah&label=Profile%20views&color=0e75b6&style=flat" alt="wediah" /> </p>
 
