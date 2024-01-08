@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wediah Emmanuel</h1>
 <h3 align="center">A CS Student based in Accra,Ghana.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wediah&label=Profile%20views&color=0e75b6&style=flat" alt="wediah" /> </p>
-
-
-
 - 🌱 I’m currently learning **php and the Laravel framework**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-wediah.vercel.app/](https://myportfolio-wediah.vercel.app/)
