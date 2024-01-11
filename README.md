@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wediah&show_icons=true&locale=en&layout=compact" alt="wediah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wediah&show_icons=true&locale=en" alt="wediah" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wediah&" alt="wediah" /></p>
 
