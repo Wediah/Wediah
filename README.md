@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **php and the Laravel framework**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-wediah.vercel.app/](https://myportfolio-wediah.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://wediahemma.tech](https://wediahemma.tech)
 
 - 💬 Ask me about **React, next.js and Javascript**
 
 - 📫 How to reach me **emmanuelwediah@gmail.com**
 
-- 📄 Know about my experiences [https://myportfolio-wediah.vercel.app/](https://myportfolio-wediah.vercel.app/)
+- 📄 Know about my experiences [https://wediahemma.tech](https://wediahemma.tech)
 
 - ⚡ Fun fact **I enjoy music**
 
