@@ -3,11 +3,11 @@
 
 - 🌱 I’m working with **php and the Laravel framework**
 
-- 👨‍💻 All of my projects are available at [https://wediahemma.tech](https://wediahemma.me)
+- 👨‍💻 All of my projects are available at [https://wediahemma.me](https://wediahemma.me)
 
 - 📫 How to reach me **emmanuelwediah@gmail.com**
 
-- 📄 Know about my experiences [https://wediahemma.tech](https://wediahemma.me)
+- 📄 Know about my experiences [https://wediahemma.me](https://wediahemma.me)
 
 - ⚡ Fun fact **I enjoy music**
 
