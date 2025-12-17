@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wediah Emmanuel</h1>
-<h3 align="center">A CS Student based in Accra,Ghana.</h3>
+<h3 align="center">A Backend Engineer based in Accra,Ghana.</h3>
 
-- 🌱 I’m currently learning **php and the Laravel framework**
+- 🌱 I’m working with **php and the Laravel framework**
 
 - 👨‍💻 All of my projects are available at [https://wediahemma.tech](https://wediahemma.me)
 
